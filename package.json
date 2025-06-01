@@ -92,7 +92,7 @@
     "mixedtuplemap": "^1.0.0",
     "namedtuplemap": "^1.0.0",
     "photon-colors": "^3.3.2",
-    "protobufjs": "^7.5.0",
+    "protobufjs": "^7.5.1",
     "query-string": "^9.1.2",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
